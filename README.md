@@ -1,2 +1,2 @@
-# Hypothesis-Testing-Project
+# Hypothesis-Testing
 This is hypothesis testing exercise (Assignment)
